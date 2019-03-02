@@ -3,6 +3,7 @@ Dockerfile and scripts needed to build and run Java 8 + Spring Tools 4 IDE + git
 
 
 RUN CONTAINER 
+==============
 In order to run the STS4 container, run script ...
 ./run.sh
 
