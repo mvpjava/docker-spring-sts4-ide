@@ -1,5 +1,5 @@
 # spring-sts4-ide
-Dockerfile and scripts needed to build and run Java 8 + Spring Tools 4 IDE + git +maven all in a Docker Container
+Dockerfile and scripts needed to build, run and exec to Docker Container containing Java 8 + Spring Tools 4 IDE + git +maven all in a Docker Container. This COntainer is treated as an executable, mainly starting STS4 IDE as a GUI via X11.
 
 
 RUN CONTAINER 
