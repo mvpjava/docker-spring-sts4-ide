@@ -32,3 +32,8 @@ else in the Dockerfile, you could run script ...
 
 ./build.sh
 
+
+
+Note: You will have to make the scripts executable from the command line via ...
+
+chmod 755 $script_name
