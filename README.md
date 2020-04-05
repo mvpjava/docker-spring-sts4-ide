@@ -5,6 +5,10 @@ This Docker Container is treated as an executable, mainly starting STS4 IDE as a
 
 STS version: spring-tool-suite-4-4.1.2
 
+You can check out the Blog Post: http://mvpjava.com/running-spring-tool-suite-4-docker/
+
+You can check out the YouTube Tutorial: https://youtu.be/do_oNrPLftg
+
 
 RUN CONTAINER 
 ==============
