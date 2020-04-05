@@ -3,6 +3,8 @@ Dockerfile and scripts needed to build, run and exec into Docker Container conta
 
 This Docker Container is treated as an executable, mainly starting STS4 IDE as a GUI via X11.
 
+STS version: spring-tool-suite-4-4.1.2
+
 
 RUN CONTAINER 
 ==============
@@ -11,7 +13,9 @@ In order to run the STS4 container, run script ...
 ./run.sh
 
 You should see the Spring Tools 4 Splash screen show up 
-after the initial Docker image download from DockerHub
+after the initial Docker image download from DockerHub.
+Just accept the defauly directory location for your workspace
+since it is volume mapped back to you host.
 
 
 

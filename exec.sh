@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker exec -it spring-sts4-ide bash
+docker container  exec -it spring-sts4-ide-jdk8 bash
