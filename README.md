@@ -17,6 +17,8 @@ after the initial Docker image download from DockerHub.
 Just accept the defauly directory location for your workspace
 since it is volume mapped back to you host.
 
+**Note: Check out MVP Java's DockerHub account for updated STS IDE images ***
+
 
 
 GETTING INTO CONTAINER 
